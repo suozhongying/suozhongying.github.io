@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about Three-way decisions method based on matrices approaches oriented dynamic interval-valued information system.'
-date: 2022-10
+date: 2022-10-1
 venue: 'International Journal of Approximate Reasoning'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
